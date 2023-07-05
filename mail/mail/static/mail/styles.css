@@ -1,0 +1,10 @@
+textarea {
+    min-height: 400px;
+}
+table {
+    table-layout: fixed;
+    width: 100%;;
+}
+tr {
+    border: 1px solid;
+}
